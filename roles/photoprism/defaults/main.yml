@@ -1,0 +1,3 @@
+container_name: photoprism
+dashboard_url: "http://photoprism.{{ host_local }}"
+dashboard_name: "PhotoPrism"
