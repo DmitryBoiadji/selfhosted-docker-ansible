@@ -1,0 +1,2 @@
+container_name: podsync
+docker_dir: 
